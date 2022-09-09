@@ -10,7 +10,7 @@ from streamlit_option_menu import option_menu
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-#import plotly.express as px
+import plotly.express as px
 from datetime import date
 
 import BrainiacExpenses
@@ -24,11 +24,16 @@ with st.sidebar:
                         default_index=0, icons=['wallet-fill', 'paperclip','music-note-list', 'bezier' ], menu_icon= 'cast')
     
 if i_page == 'Expenses':
-    tab1, tab2= st.tabs(['Add expenses', 'Show graph'])
+    tab1, tab2, tab3= st.tabs(['Add income', 'Add expenses', 'Show graph'])
     
     with tab1:
+        BrainiacExpenses.add_income()
+    
+    with tab2:
         BrainiacExpenses.add_expenses()
-        #expenses_form= st.form("expenses_form")
+        
+    with tab3:
+        BrainiacExpenses.display_graph_expense()
        
             
     
