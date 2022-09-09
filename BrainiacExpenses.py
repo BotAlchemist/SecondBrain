@@ -49,6 +49,7 @@ def add_expenses():
     df_expense= pd.read_csv('files/expenses.csv')    
     today = date.today()
     i_category_list=[ 'Car' ,'Food' , 'Groceries' ,'Shopping' ,'Bill' ,'Enternainment', 'Travel' ,'Pet' ,'Gift' ,'Unknown','Others' ]
+    
     i_sub_category_list= ['Maintenance', 'Gift' ,'Swiggy','Zomato', 'Amazon','Electricity' ,'Mobile', 'D2H' ,'Credit Card','Uni card', 'OTT' ,
                           'Dunzo', 'Big Basket' ,'Movies' ,'Country Delight', 'Car loan', 'Medical', 'Ola', 'Uber' ,'Rent' , 'Mart' , 'Stall' ,'Driver',
                           'Fasttag', 'Wifi' ,'Pet food','Vet', 'Petrol', 'Others' ,'Unknown']
@@ -94,20 +95,58 @@ def display_graph_expense():
     df_expense= df_expense[df_expense['MonthYear'].isin(time_frame)]
     
     
-    expensetab1, expensetab2, expensetab3= st.tabs(['Expenses split', 'Comparative expenses over the period', 'Raw data'])
+    expensetab1, expensetab2, expensetab3= st.tabs(['Expenses split', 'Salary split', 'Raw data'])
     
     with expensetab1:
+        split1, split2= st.columns(2)
         fig = px.pie(df_expense, values='Amount', names='Type')
-        st.plotly_chart(fig)
+        split1.plotly_chart(fig)
         
         fig = px.pie(df_expense, values='Amount', names='Category')
-        st.plotly_chart(fig)
+        split1.plotly_chart(fig)
+        
+    
+        
+    with expensetab2:
+        split1, split2, split3= st.columns(3)
+        needs_pc= split1.number_input('Needs', value= 40, step=10,min_value= 10,  max_value= 100)
+        wants_pc= split2.number_input('Wants',value= 20, step=10,min_value= 10,  max_value= 100)
+        investment_pc= split3.number_input('Investment', value= 40, step=10,min_value= 10,  max_value= 100)
+        
+        
+        total_income= df_expense['Credit'].sum()
+        needs_income= total_income * (needs_pc/100)
+        wants_income= total_income * (wants_pc/100)
+        investment_income= total_income * (investment_pc/100)
+        
+        needs_expense= df_expense[df_expense['Type']== 'mandatory']['Amount'].sum()
+        wants_expense= df_expense[df_expense['Type']== 'optional']['Amount'].sum()
+        investment_expense= df_expense[df_expense['Type']== 'mandainvestmenttory']['Amount'].sum()
+        
+        
+        
+        bucket= [needs_income,wants_income, investment_income ]
+        bucket_used= [needs_expense, wants_expense, investment_expense]
+        
+        df_khata= pd.DataFrame( columns=['Bucket', 'Used'])
+        df_khata['Bucket']= bucket
+        df_khata['Used']=  bucket_used
+        df_khata['Remaining']= df_khata['Bucket'] - df_khata['Used']
+        
+        df_khata.index= ['Needs', 'Wants', 'Investment']
+        
+        df_khata.loc["Total"] = df_khata.sum()
+        df_khata['Used %'] = df_khata['Used']/ df_khata['Bucket'] * 100
+        st.table(df_khata)
+        
+        
+        
         
         
         
     with expensetab3:
         df_expense= df_expense.sort_values(by='Date', ascending= False)
-        st.write(df_expense)
+        st.table(df_expense)
         
    
     

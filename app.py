@@ -13,15 +13,15 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from datetime import date
 
-import BrainiacExpenses
+import BrainiacExpenses, BrainiacList
 
 
 st.set_page_config(layout='wide',page_title="Second Brain")
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 with st.sidebar:
-    i_page= option_menu('Brainiac', ['Expenses', 'Canvas', 'Generate Music', 'Bezier Curve'],
-                        default_index=0, icons=['wallet-fill', 'paperclip','music-note-list', 'bezier' ], menu_icon= 'cast')
+    i_page= option_menu('Brainiac', ['Expenses', 'Groceries List', 'Reminder', 'Idea'],
+                        default_index=0, icons=['wallet-fill', 'list-check','alarm-fill', 'lightbulb-fill' ], menu_icon= 'cast')
     
 if i_page == 'Expenses':
     tab1, tab2, tab3= st.tabs(['Add income', 'Add expenses', 'Show graph'])
@@ -34,6 +34,11 @@ if i_page == 'Expenses':
         
     with tab3:
         BrainiacExpenses.display_graph_expense()
+        
+if i_page == 'Groceries List':
+    BrainiacList.get_list()
+    
+    
        
             
     
