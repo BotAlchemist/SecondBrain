@@ -13,18 +13,18 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from datetime import date
 
-import BrainiacExpenses, BrainiacList
+import BrainiacExpenses, BrainiacList, BrainiacExercise
 
 
 st.set_page_config(layout='wide',page_title="Second Brain")
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 with st.sidebar:
-    i_page= option_menu('Brainiac', ['Expenses', 'Groceries List', 'Reminder', 'Idea'],
-                        default_index=0, icons=['wallet-fill', 'list-check','alarm-fill', 'lightbulb-fill' ], menu_icon= 'cast')
+    i_page= option_menu('Brainiac', ['Expenses', 'Groceries List', 'Reminder', 'Idea', 'Workout'],
+                        default_index=0, icons=['wallet-fill', 'list-check','alarm-fill', 'lightbulb-fill' , 'activity'], menu_icon= 'cast')
     
 if i_page == 'Expenses':
-    tab1, tab2, tab3= st.tabs(['Add income', 'Add expenses', 'Show graph'])
+    tab1, tab2, tab3, tab4= st.tabs(['Add income', 'Add expenses', 'Show graph', 'Download sheet'])
     
     with tab1:
         BrainiacExpenses.add_income()
@@ -35,8 +35,16 @@ if i_page == 'Expenses':
     with tab3:
         BrainiacExpenses.display_graph_expense()
         
+    with tab4:
+        BrainiacExpenses.download_sheet()
+        
+        
 if i_page == 'Groceries List':
     BrainiacList.get_list()
+    
+if i_page == 'Workout':
+    BrainiacExercise.add_workout()
+    
     
     
        

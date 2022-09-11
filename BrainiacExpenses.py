@@ -148,6 +148,23 @@ def display_graph_expense():
         df_expense= df_expense.sort_values(by='Date', ascending= False)
         st.table(df_expense)
         
+def download_sheet():
+    df_expense= pd.read_csv('files/expenses.csv') 
+    def convert_df(df):
+       return df.to_csv().encode('utf-8')
+    
+    
+    csv = convert_df(df_expense)
+    
+    st.download_button(
+       "Press to Download",
+       csv,
+       "expenses.csv",
+       "text/csv",
+       key='download-csv'
+    )
+    
+        
    
     
     
