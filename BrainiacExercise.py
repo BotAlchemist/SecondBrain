@@ -11,7 +11,7 @@ from datetime import date
 
 def add_workout():
     
-    tab1, tab2= st.tabs(['Daily workout', 'Help'])
+    tab1, tab2, tab3= st.tabs(['Daily workout', 'Help', 'Download sheet'])
     
     
     with tab1: # Daily workout
@@ -50,6 +50,22 @@ def add_workout():
     with tab2: # help
         link='https://www.youtube.com/watch?v=AXZlb-3MMYE'
         st.success(link)
+        
+    with tab3: # download sheet
+        df_workout= pd.read_csv('files/workout_planner.csv') 
+        def convert_df(df):
+           return df.to_csv().encode('utf-8')
+        
+        
+        csv = convert_df(df_workout)
+        
+        st.download_button(
+           "Press to Download",
+           csv,
+           "expenses.csv",
+           "text/csv",
+           key='download-csv'
+        )
         
     
             
