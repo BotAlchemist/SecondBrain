@@ -137,10 +137,10 @@ keyPrefix = ""
 
 
 [theme]
-base="dark"
-primaryColor="#2e6f1e"
-backgroundColor="#17140e"
-secondaryBackgroundColor="#2d3118"
+primaryColor="#ff4bf6"
+backgroundColor="#142133"
+secondaryBackgroundColor="#596775"
+textColor="#fdfbfb"
 
 
 
