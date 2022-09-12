@@ -48,11 +48,14 @@ def add_income():
 def add_expenses():
     df_expense= pd.read_csv('files/expenses.csv')    
     today = date.today()
-    i_category_list=[ 'Car' ,'Food' , 'Groceries' ,'Shopping' ,'Bill' ,'Enternainment', 'Travel' ,'Pet' ,'Gift' ,'Unknown','Others' ]
+    i_category_list=[ 'Car' ,'Food' , 'Groceries' ,'Shopping' ,'Bill' ,'Enternainment','Health/Fitness' ,'Travel' ,'Pet' ,'Gift' ,'Unknown','Others' ]
     
     i_sub_category_list= ['Maintenance', 'Gift' ,'Swiggy','Zomato', 'Amazon','Electricity' ,'Mobile', 'D2H' ,'Credit Card','Uni card', 'OTT' ,
-                          'Dunzo', 'Big Basket' ,'Movies' ,'Country Delight', 'Car loan', 'Medical', 'Ola', 'Uber' ,'Rent' , 'Mart' , 'Stall' ,'Driver',
+                          'Dunzo', 'Big Basket' , 'Health/Fitness' , 'Movies' ,'Country Delight', 'Car loan', 'Medical', 'Ola', 'Uber' ,'Rent' , 'Mart' , 'Stall' ,'Driver',
                           'Fasttag', 'Wifi' ,'Pet food','Vet', 'Petrol', 'Others' ,'Unknown']
+    
+    i_category_list.sort()
+    i_sub_category_list.sort()
     
     with st.form("expenses_form"):
         i_date= st.date_input("Date", today)
