@@ -14,8 +14,8 @@ import plotly.express as px
 def add_income():
     df_expense= pd.read_csv('files/expenses.csv')    
     today = date.today()
-    i_category_list= ['Salary', 'Cashback']
-    i_sub_category_list= ['Salary', 'Cashback']
+    i_category_list= ['Salary', 'Cashback','Gift', 'Others']
+    i_sub_category_list= ['Salary', 'Cashback','Gift', 'Others']
     
     with st.form("income_form"):
         i_date= st.date_input("Date", today)

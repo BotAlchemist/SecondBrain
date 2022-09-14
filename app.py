@@ -13,15 +13,15 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from datetime import date
 
-import BrainiacExpenses, BrainiacList, BrainiacExercise
+import BrainiacExpenses, BrainiacList, BrainiacExercise, BrainiacBook
 
 
 st.set_page_config(layout='wide',page_title="Second Brain")
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 with st.sidebar:
-    i_page= option_menu('Brainiac', ['Expenses', 'Groceries List', 'Reminder', 'Idea', 'Workout'],
-                        default_index=0, icons=['wallet-fill', 'list-check','alarm-fill', 'lightbulb-fill' , 'activity'], menu_icon= 'cast')
+    i_page= option_menu('Brainiac', ['Expenses', 'Groceries List', 'Reminder', 'Idea', 'Workout', 'Book Summary'],
+                        default_index=0, icons=['wallet-fill', 'list-check','alarm-fill', 'lightbulb-fill' , 'activity', 'book'], menu_icon= 'cast')
     
 if i_page == 'Expenses':
     tab1, tab2, tab3, tab4= st.tabs(['Add income', 'Add expenses', 'Show graph', 'Download sheet'])
@@ -44,6 +44,20 @@ if i_page == 'Groceries List':
     
 if i_page == 'Workout':
     BrainiacExercise.add_workout()
+    
+if i_page== 'Book Summary':
+    booktab1, booktab2, booktab3= st.tabs(['Add book','Add summary', 'View Summary'])
+    
+    with booktab1:
+        BrainiacBook.add_book()
+        
+    
+    with booktab2:
+        BrainiacBook.add_summary()
+        
+    with booktab3:
+        BrainiacBook.get_summary()
+        
     
     
     

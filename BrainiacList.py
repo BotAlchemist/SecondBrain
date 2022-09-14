@@ -31,7 +31,7 @@ def get_list():
     all_categories= ['Food grains', 'Oil', 'Masala', 'Beverages', 'Beauty & hygiene', 
                                                        'Bakery, Dairy & Eggs', 'Dry fruits', 'Breakfast & Snacks', 'Cleaning & household',
                                                       'Pooja needs', 'Others' ]
-    tab_dict = dict(zip(all_tabs, all_categories))
+    tab_dict = dict(zip(all_tabs, all_categories))  # this will map all tabs with groceries categories, so that it can be run on loop
     for i_tab in all_tabs:
         with i_tab:
             df_list_cat= df_list[df_list['Category']== tab_dict[i_tab]]
