@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 from datetime import date
 
-import BrainiacExpenses, BrainiacList, BrainiacExercise, BrainiacBook
+import BrainiacExpenses, BrainiacList, BrainiacExercise, BrainiacBook, BrainiacReminder
 
 
 st.set_page_config(layout='wide',page_title="Second Brain")
@@ -41,6 +41,18 @@ if i_page == 'Expenses':
         
 if i_page == 'Groceries List':
     BrainiacList.get_list()
+
+
+if i_page== 'Reminder':
+    remindtab1, remindtab2= st.tabs(['Show reminder', 'Set reminder'])
+    with remindtab1:
+        BrainiacReminder.show_reminder()
+    with remindtab2:
+        BrainiacReminder.set_reminder()
+    
+
+
+
     
 if i_page == 'Workout':
     BrainiacExercise.add_workout()
