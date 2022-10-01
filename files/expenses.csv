@@ -175,3 +175,35 @@ Unnamed: 0,Date,Category,Sub-Category,Amount,Credit,Comments,Type
 ,2022-09-11,Food,Swiggy,598.0,,pizza & momos,optional
 ,2022-09-12,Groceries,Big Basket,2165.0,,snacks & dry fruits,mandatory
 ,2022-09-14,Groceries,Big Basket,1500.0,,bb daily,mandatory
+,2022-09-15,Gift,Gift,,30000.0,for rent,
+,2022-09-16,Bill,Rent,21176.0,,rent september,mandatory
+,2022-09-17,Food,Swiggy,539.0,,pizza,optional
+,2022-09-19,Bill,Wifi,884.0,,wifi bill,mandatory
+,2022-09-19,Health/Fitness,Health/Fitness,920.0,,salon,mandatory
+,2022-09-19,Health/Fitness,Health/Fitness,666.0,,medical bill for acidity,mandatory
+,2022-09-23,Car,Driver,2500.0,,uttam,mandatory
+,2022-09-24,Food,Swiggy,1892.0,,"samosa, fish, prawns",optional
+,2022-09-25,Others,Others,1000.0,,driving lessons,mandatory
+,2022-09-25,Food,Stall,62.0,,refreshments,optional
+,2022-09-26,Pet,Vet,2350.0,,pet vaccine,mandatory
+,2022-09-26,Health/Fitness,Health/Fitness,225.0,,ors,mandatory
+,2022-09-26,Car,Driver,1500.0,,uttam,mandatory
+,2022-09-26,Travel,Ola,470.0,,ola/uber rides,optional
+,2022-09-21,Pet,Pet food,2070.0,,pet food,mandatory
+,2022-09-23,Others,Others,,300.0,art commission,
+,2022-09-27,Enternainment,Movies,126.0,,brahmastra movie,optional
+,2022-09-27,Others,Unknown,292.0,,pinelabs pos,optional
+,2022-09-27,Food,Swiggy,226.0,,,optional
+,2022-09-27,Others,Others,1100.0,,sunglasses,optional
+,2022-09-28,Others,Others,849.0,,mithaas content writing,optional
+,2022-09-29,Groceries,Big Basket,1500.0,,bb daily,mandatory
+,2022-09-29,Gift,Gift,1000.0,,to daisy,optional
+,2022-09-29,Others,Others,2100.0,,driving classes,mandatory
+,2022-09-29,Food,Stall,60.0,,cold coffee,optional
+,2022-09-30,Salary,Salary,,123789.0,salary,
+,2022-09-30,Groceries,Stall,363.0,,veggies,mandatory
+,2022-09-30,Health/Fitness,Medical,363.0,,earplugs,mandatory
+,2022-10-01,Car,Maintenance,500.0,,car wash,mandatory
+,2022-10-01,Groceries,Country Delight,600.0,,coconut water recharge,mandatory
+,2022-10-01,Bill,Uni card,1058.0,,uni card credit,mandatory
+,2022-10-01,Bill,Credit Card,11203.0,,icici bank credit card,mandatory

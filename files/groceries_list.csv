@@ -1,23 +1,23 @@
 Category,Item,UOM,Quantity needed,Quantity bought,Check
-Food grains,Rice,kg,5,,X
-Food grains,Atta,kg,5,,X
-Food grains,Sugar,kg,1,,X
-Food grains,Jaggery,gm,250,,X
-Food grains,Salt,kg,1,,X
-Food grains,Arhar dal,gm,500,,X
-Food grains,Masoor dal,gm,500,,X
-Food grains,Chana dal,gm,500,,X
+Food grains,Rice,kg,5,,
+Food grains,Atta,kg,5,,
+Food grains,Sugar,kg,1,,
+Food grains,Jaggery,gm,250,,
+Food grains,Salt,kg,1,,
+Food grains,Arhar dal,gm,500,,
+Food grains,Masoor dal,gm,500,,
+Food grains,Chana dal,gm,500,,
 Food grains,Urad dal,gm,500,,
-Food grains,Besan,gm,500,,X
-Food grains,Maida,gm,500,,X
+Food grains,Besan,gm,500,,
+Food grains,Maida,gm,500,,
 Food grains,Suji,gm,500,,
-Food grains,Daliya,gm,250,,X
+Food grains,Daliya,gm,250,,
 Food grains,Rajma,kg,1,,
 Food grains,Kabuli chana,kg,1,,
-Food grains,Soya chunks,kg,1,,X
+Food grains,Soya chunks,kg,1,,
 Food grains,Peanuts/Moongfali,gm,250,,
-Oil,Cooking oil,ltr,1,,X
-Oil,Mustard oil,ltr,1,,X
+Oil,Cooking oil,ltr,1,,
+Oil,Mustard oil,ltr,1,,
 Masala,Hing,pck,1,,
 Masala,Haldi,gm,200,,
 Masala,Cumin/Jeera,gm,200,,
@@ -38,12 +38,12 @@ Masala,Kitchen king,gm,50,,
 Masala,Bay leaf,gm,50,,
 Masala,Chole masala,gm,50,,
 Masala,Amchoor,gm,50,,
-Beverages,Tea,gm,500,,X
+Beverages,Tea,gm,500,,
 Beverages,Glucose,gm,250,,
-Beverages,Coffee,pck,20,,X
+Beverages,Coffee,pck,20,,
 Pet care,Canine creek,pck,1,,
 Pet care,Dog treat,pck,2,,
-Beauty & hygiene,Face Wash,pck,1,,X
+Beauty & hygiene,Face Wash,pck,1,,
 "Bakery, Dairy & Eggs",Egg plate,pck,1,,
 Dry fruits,Almond/Badam,gm,100,,
 Dry fruits,Cashew/Kaju,gm,250,,
@@ -52,21 +52,21 @@ Dry fruits,Dry dates/Chuwara,gm,250,,
 Dry fruits,Pista,gm,250,,
 Dry fruits,Raisin/Kismis,gm,100,,
 Dry fruits,Figs/Anjeer,gm,100,,
-Breakfast & Snacks,Maggi,pck,1,,X
+Breakfast & Snacks,Maggi,pck,1,,
 Breakfast & Snacks,Pasta,pck,1,,
-Breakfast & Snacks,Noodles,pck,1,,X
-Breakfast & Snacks,Sauce,pck,1,,X
+Breakfast & Snacks,Noodles,pck,1,,
+Breakfast & Snacks,Sauce,pck,1,,
 Breakfast & Snacks,Jam,pck,1,,
-Cleaning & household,Shapmoo,pck,1,,X
-Cleaning & household,Air freshners,pck,2,,X
-Cleaning & household,Soap,pck,2,,X
-Cleaning & household,Toothpaste,pck,1,,X
-Cleaning & household,Listerine,pck,1,,X
-Cleaning & household,Surf,gm,500,,X
-Cleaning & household,Vim bar,pck,3,,X
-Cleaning & household,Harpic,pck,1,,X
+Cleaning & household,Shapmoo,pck,1,,
+Cleaning & household,Air freshners,pck,2,,
+Cleaning & household,Soap,pck,2,,
+Cleaning & household,Toothpaste,pck,1,,
+Cleaning & household,Listerine,pck,1,,
+Cleaning & household,Surf,gm,500,,
+Cleaning & household,Vim bar,pck,3,,
+Cleaning & household,Harpic,pck,1,,
 Cleaning & household,Lizole,pck,1,,
-Pooja needs,Agarbatti,pck,2,,X
-Pooja needs,Camphor,pck,1,,X
-Others,Bulb,pck,1,,X
+Pooja needs,Agarbatti,pck,2,,
+Pooja needs,Camphor,pck,1,,
+Others,Bulb,pck,1,,
 Others,Battery,pck,2,,
