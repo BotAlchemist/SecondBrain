@@ -20,9 +20,31 @@ st.set_page_config(layout='wide',page_title="Second Brain")
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 with st.sidebar:
-    i_page= option_menu('Brainiac', ['Expenses', 'Groceries List', 'Reminder', 'Idea', 'Workout', 'Book Summary'],
-                        default_index=0, icons=['wallet-fill', 'list-check','alarm-fill', 'lightbulb-fill' , 'activity', 'book'], menu_icon= 'cast')
+    i_page= option_menu('Brainiac', ['Expenses', 'Groceries List', 'Reminder', 'Idea', 'Workout', 'Book Summary','To-do list' ,'Download data'],
+                        default_index=0, icons=['wallet-fill', 'list-check','alarm-fill', 'lightbulb-fill' , 'activity', 'book', 'check-all','cloud-arrow-down-fill'], menu_icon= 'cast')
+
     
+if i_page== 'Download data': 
+    import glob
+    all_files= glob.glob("files/*.csv")
+    for i_file in all_files:
+        
+        df= pd.read_csv(i_file) 
+        df= df.to_csv(index=False).encode('utf-8')
+        
+        filename= i_file.split("\\")[1]
+        st.write(filename)
+        
+        st.download_button(
+           "Press to Download",
+           df,
+           "expenses.csv",
+           "text/csv",
+           key='download-csv'+filename)
+        
+        st.markdown("---")
+            
+   
 if i_page == 'Expenses':
     tab1, tab2, tab3, tab4= st.tabs(['Add income', 'Add expenses', 'Show graph', 'Download sheet'])
     
