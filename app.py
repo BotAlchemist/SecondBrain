@@ -16,7 +16,7 @@ from datetime import date
 import BrainiacExpenses, BrainiacList, BrainiacExercise, BrainiacBook, BrainiacReminder
 
 
-st.set_page_config(layout='wide',page_title="Second Brain")
+st.set_page_config(layout='wide',page_title="Second Brain", page_icon= ":pill:")
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 with st.sidebar:

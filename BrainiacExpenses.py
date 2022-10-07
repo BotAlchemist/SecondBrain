@@ -128,9 +128,13 @@ def display_graph_expense():
         investment_expense= df_expense[df_expense['Type']== 'mandainvestmenttory']['Amount'].sum()
         
         
-        
         bucket= [needs_income,wants_income, investment_income ]
         bucket_used= [needs_expense, wants_expense, investment_expense]
+        
+        col1, col2, col3= st.columns(3)
+        col1.metric('Total Credit', f"{total_income}", 'INR')
+        col2.metric('Total Expense', f"{sum(bucket_used)}", 'INR')
+        col3.metric('Balance', f"{ total_income- sum(bucket_used) }", 'INR')
         
         df_khata= pd.DataFrame( columns=['Bucket', 'Used'])
         df_khata['Bucket']= bucket
