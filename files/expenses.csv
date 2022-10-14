@@ -1,235 +1,248 @@
 Date,Category,Sub-Category,Amount,Credit,Comments,Type
-30-04-2022,Income,Salary,,45416,Salary,
-01-05-2022,Income,Salary,,49714,Salary,
-01-05-2022,Car,Maintenance,500,,car wash,mandatory
-01-05-2022,Others,Gift,500,,tv return,optional
-02-05-2022,Food,Swiggy,188,,icecream,optional
-02-05-2022,Shopping,Amazon,789,,shorts men,optional
-02-05-2022,Bill,Electricity,780,,electricity bill,mandatory
-02-05-2022,Bill,Mobile,470,,vodafone bill,mandatory
-02-05-2022,Bill,Mobile,470,,jio mine,mandatory
-02-05-2022,Bill,Mobile,155,,airtel,mandatory
-02-05-2022,Bill,D2H,500,,d2h ,mandatory
-03-05-2022,Bill,Credit,513,,credit repayment,mandatory
-04-05-2022,Bill,OTT,199,,netflix,mandatory
-04-05-2022,Food,Swiggy,10,,licious,optional
-04-05-2022,Food,Dunzo,478,,momos,optional
-05-05-2022,ID,ID,466,,dl fees,optional
-05-05-2022,Shopping,Big Basket,1500,,big basket,mandatory
-05-05-2022,Enternainment,Movies,280,,dr. strange mobie,optional
-05-05-2022,Shopping,Amazon,1954,,sling bag,optional
-06-05-2022,Shopping,Amazon,599,,file folder,optional
-06-05-2022,Income,Gift,,5,google pay,
-08-05-2022,Others,Gift,2000,,megh,optional
-09-05-2022,Shopping,Dunzo,12,,gift wrap,optional
-09-05-2022,Food,Country Delight,500,,coconut water,mandatory
-09-05-2022,Bill,Electricity,120,,security deposit,mandatory
-10-05-2022,Others,Gift,1500,,megh,optional
-10-05-2022,Bill,Car loan,7128,,car loan,mandatory
-11-05-2022,Shopping,Medical,40,,eye drops,optional
-11-05-2022,Shopping,Medical,90,,perfume,optional
-11-05-2022,Shopping,Xerox,75,,xerox,mandatory
-11-05-2022,Travel,Ola,60,,ola ride,mandatory
-12-05-2022,Food,Swiggy,473,,momos,optional
-14-05-2022,Food,Swiggy,193,,licious,optional
-15-05-2022,Shopping,Big Basket,1500,,big basket,mandatory
-16-05-2022,Bill,Rent,21175,,rent,mandatory
-16-05-2022,Income,Gift,,9999,gift,
-16-05-2022,Income,Gift,,9999,gift,
-17-05-2022,Car,Challan,500,,challan,mandatory
-17-05-2022,Shopping,Xerox,246,,xerox,mandatory
-17-05-2022,Food,Stall,20,,tea,optional
-17-05-2022,Food,Stall,760,,fruits,optional
-17-05-2022,Car,Driver,2000,,driver,mandatory
-17-05-2022,Bill,Mobile,299,,Jio,mandatory
-19-05-2022,Food,Stall,70,,breakfast,mandatory
-20-05-2022,Bill,Ola,813,,travel,mandatory
-20-05-2022,Car,Fasttag,200,,fasttag,optional
-20-05-2022,Bill,Wifi,884,,wifi,mandatory
-20-05-2022,Food,Swiggy,327,,butter chichen,optional
-21-05-2022,Bill,Mobile,299,,Mom jio,mandatory
-23-05-2022,Food,Stall,45,,tea,optional
-23-05-2022,Food,Stall,895,,fruits,optional
-23-05-2022,Car,Driver,2000,,driver,mandatory
-23-05-2022,Food,Stall,160,,egg,mandatory
-23-05-2022,Shopping,Stall,90,,jute bag,optional
-24-05-2022,Shopping,Amazon,175,,cork opener,optional
-25-05-2022,Food,Swiggy,154,,vada pav,optional
-26-05-2022,Shopping,Big Basket,1500,,big basket,mandatory
-27-05-2022,Food,Swiggy,369,,pizza,optional
-29-05-2022,Food,Stall,345,,beer,optional
-29-05-2022,Bill,Credit,3234,,uni,mandatory
-30-05-2022,Enternainment,Movies,168,,bhoolbhulaiya,optional
-30-05-2022,Bill,Mobile,155,,airtel,mandatory
-31-05-2022,Income,Salary,,97000,Salary,
-31-05-2022,Food,Stall,34,,breakfast,mandatory
-31-05-2022,Income,Gift,,13,google pay,
-01-06-2022,Car,Maintenance,500,,car wash,mandatory
-02-06-2022,Food,Stall,30,,tea,optional
-02-06-2022,Pet,Pet food,700,,pet food,mandatory
-02-06-2022,Shopping,Stall,803,,pharma,optional
-02-06-2022,Shopping,Stall,30,,clutcher,optional
-02-06-2022,Food,Stall,585,,fruits,optional
-02-06-2022,Shopping,Stall,220,,pharma,optional
-02-06-2022,Car,Driver,1000,,driver,mandatory
-02-06-2022,Bill,D2H,540,,d2h ,mandatory
-03-06-2022,Bill,Medical,3000,,dentist,mandatory
-03-06-2022,Gift,Gift,12000,,reference,mandatory
-03-06-2022,Bill,Mobile,470,,vodafone bill,mandatory
-04-06-2022,Bill,OTT,199,,netflix,mandatory
-04-06-2022,Food,Swiggy,347,,pizza,optional
-04-06-2022,Income,Gift,,52,google pay,
-05-06-2022,Car,Petrol,800,,petrol,mandatory
-05-06-2022,Shopping,Others,2019,,jewewlry,optional
-05-06-2022,Food,Stall,130,,fruits,optional
-05-06-2022,Car,Driver,1500,,driver,mandatory
-05-06-2022,Food,Swiggy,215,,ice cream,optional
-05-06-2022,Bill,Mobile,470,,jio mine,mandatory
-07-06-2022,Shopping,Big Basket,1500,,big basket,mandatory
-08-06-2022,Travel,Ola,747,,ola ride,mandatory
-08-06-2022,Bill,Electricity,990,,electricity bill,mandatory
-08-06-2022,Car,Maintenance,6640,,servicing,optional
-08-06-2022,Food,Swiggy,547,,momos,optional
-10-06-2022,Bill,Car loan,7128,,car loan,mandatory
-12-06-2022,Food,Stall,240,,vada pav,optional
-12-06-2022,Car,Maintenance,550,,mud flap,mandatory
-12-06-2022,Car,Maintenance,300,,car perfume,optional
-12-06-2022,Car,Maintenance,200,,mudflap fitting,mandatory
-12-06-2022,Car,Petrol,800,,petrol,mandatory
-12-06-2022,Food,Stall,40,,tea,optional
-12-06-2022,Food,Stall,795,,sweets,optional
-12-06-2022,Food,Stall,490,,egg & chicken,optional
-12-06-2022,Car,Driver,3000,,driver,mandatory
-13-06-2022,Shopping,Amazon,700,,freezer door,mandatory
-13-06-2022,Food,Country Delight,500,,coconut water,mandatory
-14-06-2022,Food,Stall,372,,groceries,mandatory
-14-06-2022,Shopping,Amazon,999,,quilt,optional
-14-06-2022,Income,Gift,,20,google pay,
-14-06-2022,Unknown,Unknown,299,,Unknown,optional
-14-06-2022,Shopping,Big Basket,1500,,big basket,mandatory
-16-06-2022,Income,Gift,,29997,gift,
-16-06-2022,Bill,Rent,21175,,rent,mandatory
-17-06-2022,Unknown,Unknown,299,,Unknown,optional
-18-06-2022,Food,Swiggy,685,,pizza,optional
-18-06-2022,Food,Stall,72,,tea,optional
-18-06-2022,Food,Stall,1050,,fruits,optional
-18-06-2022,Car,Driver,2000,,driver,mandatory
-18-06-2022,Income,Divyang contribution,,250,contribution,
-19-06-2022,Food,Swiggy,260,,unknown,optional
-21-06-2022,Bill,Wifi,884,,wifi,mandatory
-21-06-2022,Shopping,Amazon,858,,comforter,optional
-21-06-2022,Bill,Ola,257,,travel,mandatory
-24-06-2022,Shopping,Amazon,689,,sweatpant,optional
-24-06-2022,Shopping,Amazon,499,,dog harness,optional
-25-06-2022,Shopping,Amazon,523,,sweatpant,optional
-25-06-2022,Food,Swiggy,655,,pizza,optional
-26-06-2022,Food,Swiggy,213,,moong daal halwa,optional
-26-06-2022,Income,Daisy,,5,gift,
-26-06-2022,Unknown,Unknown,240,,Unknown,optional
-26-06-2022,Car,Petrol,800,,petrol,mandatory
-26-06-2022,Food,Stall,70,,tea,optional
-26-06-2022,Income,Divyang contribution,,500,contribution,
-26-06-2022,Car,Driver,2500,,driver,mandatory
-28-06-2022,Enternainment,Movies,168,,JJK 0,optional
-29-06-2022,Food,Swiggy,427,,butter chiken,optional
-30-06-2022,Income,Salary,,101375,Salary,
-30-06-2022,Income,Interest,,593,interest,
-30-06-2022,Shopping,Amazon,598,,bag,optional
-30-06-2022,Shopping,Amazon,345,,facial tissue,optional
-30-06-2022,Food,Stall,120,,"bread, egg",mandatory
-01-09-2022,Salary,Salary,,145107,salary,
-01-09-2022,Groceries,Mart,794,,rajasthani shop,mandatory
-01-09-2022,Shopping,Amazon,3563,,kitchen stands,optional
-01-09-2022,Others,Others,106,,pan update,optional
-01-09-2022,Food,Country Delight,600,,coconut water,mandatory
-01-09-2022,Car,Maintenance,500,,car wash,mandatory
-01-09-2022,Shopping,Amazon,229,,kitchen stand,optional
-02-09-2022,Bill,Uni card,4674,,,mandatory
-02-09-2022,Bill,Credit Card,3000,,,mandatory
-02-09-2022,Unknown,Unknown,470,,,optional
-02-09-2022,Groceries,Big Basket,1500,,bbdaily,mandatory
-03-09-2022,Pet,Vet,400,,vet check,mandatory
-03-09-2022,Food,Stall,96,,tea snacks,optional
-03-09-2022,Shopping,Mart,2580,,to uttam,optional
-03-09-2022,Shopping,Mart,3058,,monthly groceries,mandatory
-03-09-2022,Shopping,Mart,1620,,"kitchen stand, microwave casterol",optional
-03-09-2022,Car,Driver,1500,,to uttam,mandatory
-03-09-2022,Food,Swiggy,430,,butter chicken,optional
-04-09-2022,Enternainment,OTT,199,,netflix,optional
-04-09-2022,Food,Zomato,1049,,fish,optional
-05-09-2022,Food,Dunzo,340,,chicken,optional
-06-09-2022,Shopping,Amazon,858,,blanket,optional
-08-09-2022,Bill,Electricity,540,,electric bill,mandatory
-08-09-2022,Bill,D2H,500,,d2h bill,mandatory
-05-09-2022,Bill,Mobile,470,,jio postpaid,mandatory
-05-09-2022,Food,Swiggy,228,,samosa,optional
-10-09-2022,Food,Stall,42,,tea,optional
-10-09-2022,Groceries,Stall,250,,fruits,mandatory
-10-09-2022,Others,Others,120,,pooja needs,optional
-10-09-2022,Shopping,Others,1020,,kitchen utensils,optional
-10-09-2022,Car,Driver,1500,, to Uttam,mandatory
-10-09-2022,Gift,Gift,3000,, to Daisy,mandatory
-09-09-2022,Bill,Mobile,155,,airtel mom,mandatory
-10-09-2022,Car,Petrol,800,,petrol,mandatory
-11-09-2022,Health/Fitness,Amazon,1099,,3kg dumbell set,mandatory
-11-09-2022,Food,Swiggy,598,,pizza & momos,optional
-12-09-2022,Groceries,Big Basket,2165,,snacks & dry fruits,mandatory
-14-09-2022,Groceries,Big Basket,1500,,bb daily,mandatory
-15-09-2022,Gift,Gift,,30000,for rent,
-16-09-2022,Bill,Rent,21176,,rent september,mandatory
-17-09-2022,Food,Swiggy,539,,pizza,optional
-19-09-2022,Bill,Wifi,884,,wifi bill,mandatory
-19-09-2022,Health/Fitness,Health/Fitness,920,,salon,mandatory
-19-09-2022,Health/Fitness,Health/Fitness,666,,medical bill for acidity,mandatory
-23-09-2022,Car,Driver,2500,,uttam,mandatory
-24-09-2022,Food,Swiggy,1892,,"samosa, fish, prawns",optional
-25-09-2022,Others,Others,1000,,driving lessons,mandatory
-25-09-2022,Food,Stall,62,,refreshments,optional
-26-09-2022,Pet,Vet,2350,,pet vaccine,mandatory
-26-09-2022,Health/Fitness,Health/Fitness,225,,ors,mandatory
-26-09-2022,Car,Driver,1500,,uttam,mandatory
-26-09-2022,Travel,Ola,470,,ola/uber rides,optional
-21-09-2022,Pet,Pet food,2070,,pet food,mandatory
-23-09-2022,Others,Others,,300,art commission,
-27-09-2022,Enternainment,Movies,126,,brahmastra movie,optional
-27-09-2022,Others,Unknown,292,,pinelabs pos,optional
-27-09-2022,Food,Swiggy,226,,,optional
-27-09-2022,Others,Others,1100,,sunglasses,optional
-28-09-2022,Others,Others,849,,mithaas content writing,optional
-29-09-2022,Groceries,Big Basket,1500,,bb daily,mandatory
-29-09-2022,Gift,Gift,1000,,to daisy,optional
-29-09-2022,Others,Others,2100,,driving classes,mandatory
-29-09-2022,Food,Stall,60,,cold coffee,optional
-01-10-2022,Salary,Salary,,123789,salary,
-30-09-2022,Groceries,Stall,363,,veggies,mandatory
-30-09-2022,Health/Fitness,Medical,363,,earplugs,mandatory
-01-10-2022,Car,Maintenance,500,,car wash,mandatory
-01-10-2022,Groceries,Country Delight,600,,coconut water recharge,mandatory
-01-10-2022,Bill,Uni card,1058,,uni card credit,mandatory
-01-10-2022,Bill,Credit Card,11203,,icici bank credit card,mandatory
-06-10-2022,Food,Swiggy,465,,Chicken,optional
-01-10-2022,Travel,Ola,1974,,ola rides,mandatory
-01-10-2022,Unknown,Unknown,1000,,,optional
-01-10-2022,Pet,Vet,2100,,vaccine,mandatory
-01-10-2022,Health/Fitness,Health/Fitness,167,,ors,mandatory
-02-10-2022,Car,Driver,2000,,to uttam,mandatory
-02-10-2022,Food,Stall,49,,tea,optional
-02-10-2022,Unknown,Unknown,440,,,optional
-03-10-2022,Enternainment,Movies,146,,vikram vedha,optional
-03-10-2022,Travel,Ola,112,,,optional
-04-10-2022,Enternainment,OTT,199,,Netflix,mandatory
-04-10-2022,Bill,Mobile,470,,vodafone,mandatory
-04-10-2022,Health/Fitness,Health/Fitness,12000,,gym membership,mandatory
-04-10-2022,Travel,Ola,110,,,mandatory
-04-10-2022,Car,Driver,1500,,to uttam,optional
-04-10-2022,Food,Stall,24,,tea,optional
-05-10-2022,Travel,Ola,120,,,mandatory
-05-10-2022,Car,Maintenance,150,,car wash,mandatory
-05-10-2022,Car,Maintenance,170,,garland,mandatory
-05-10-2022,Food,Stall,84,,tea,optional
-05-10-2022,Groceries,Stall,150,,eggs,mandatory
-05-10-2022,Car,Driver,2000,,to uttam,mandatory
-05-10-2022,Enternainment,Movies,235,,one piece movie,optional
-06-10-2022,Bill,Mobile,470,,jio postpaid,mandatory
-06-10-2022,Bill,Electricity,610,,electric bill,mandatory
-06-10-2022,Food,Dunzo,465,,chicken,optional
+30-04-2022,Income,Salary,,45416.0,Salary,
+01-05-2022,Income,Salary,,49714.0,Salary,
+01-05-2022,Car,Maintenance,500.0,,car wash,mandatory
+01-05-2022,Others,Gift,500.0,,tv return,optional
+02-05-2022,Food,Swiggy,188.0,,icecream,optional
+02-05-2022,Shopping,Amazon,789.0,,shorts men,optional
+02-05-2022,Bill,Electricity,780.0,,electricity bill,mandatory
+02-05-2022,Bill,Mobile,470.0,,vodafone bill,mandatory
+02-05-2022,Bill,Mobile,470.0,,jio mine,mandatory
+02-05-2022,Bill,Mobile,155.0,,airtel,mandatory
+02-05-2022,Bill,D2H,500.0,,d2h ,mandatory
+03-05-2022,Bill,Credit,513.0,,credit repayment,mandatory
+04-05-2022,Bill,OTT,199.0,,netflix,mandatory
+04-05-2022,Food,Swiggy,10.0,,licious,optional
+04-05-2022,Food,Dunzo,478.0,,momos,optional
+05-05-2022,ID,ID,466.0,,dl fees,optional
+05-05-2022,Shopping,Big Basket,1500.0,,big basket,mandatory
+05-05-2022,Enternainment,Movies,280.0,,dr. strange mobie,optional
+05-05-2022,Shopping,Amazon,1954.0,,sling bag,optional
+06-05-2022,Shopping,Amazon,599.0,,file folder,optional
+06-05-2022,Income,Gift,,5.0,google pay,
+08-05-2022,Others,Gift,2000.0,,megh,optional
+09-05-2022,Shopping,Dunzo,12.0,,gift wrap,optional
+09-05-2022,Food,Country Delight,500.0,,coconut water,mandatory
+09-05-2022,Bill,Electricity,120.0,,security deposit,mandatory
+10-05-2022,Others,Gift,1500.0,,megh,optional
+10-05-2022,Bill,Car loan,7128.0,,car loan,mandatory
+11-05-2022,Shopping,Medical,40.0,,eye drops,optional
+11-05-2022,Shopping,Medical,90.0,,perfume,optional
+11-05-2022,Shopping,Xerox,75.0,,xerox,mandatory
+11-05-2022,Travel,Ola,60.0,,ola ride,mandatory
+12-05-2022,Food,Swiggy,473.0,,momos,optional
+14-05-2022,Food,Swiggy,193.0,,licious,optional
+15-05-2022,Shopping,Big Basket,1500.0,,big basket,mandatory
+16-05-2022,Bill,Rent,21175.0,,rent,mandatory
+16-05-2022,Income,Gift,,9999.0,gift,
+16-05-2022,Income,Gift,,9999.0,gift,
+17-05-2022,Car,Challan,500.0,,challan,mandatory
+17-05-2022,Shopping,Xerox,246.0,,xerox,mandatory
+17-05-2022,Food,Stall,20.0,,tea,optional
+17-05-2022,Food,Stall,760.0,,fruits,optional
+17-05-2022,Car,Driver,2000.0,,driver,mandatory
+17-05-2022,Bill,Mobile,299.0,,Jio,mandatory
+19-05-2022,Food,Stall,70.0,,breakfast,mandatory
+20-05-2022,Bill,Ola,813.0,,travel,mandatory
+20-05-2022,Car,Fasttag,200.0,,fasttag,optional
+20-05-2022,Bill,Wifi,884.0,,wifi,mandatory
+20-05-2022,Food,Swiggy,327.0,,butter chichen,optional
+21-05-2022,Bill,Mobile,299.0,,Mom jio,mandatory
+23-05-2022,Food,Stall,45.0,,tea,optional
+23-05-2022,Food,Stall,895.0,,fruits,optional
+23-05-2022,Car,Driver,2000.0,,driver,mandatory
+23-05-2022,Food,Stall,160.0,,egg,mandatory
+23-05-2022,Shopping,Stall,90.0,,jute bag,optional
+24-05-2022,Shopping,Amazon,175.0,,cork opener,optional
+25-05-2022,Food,Swiggy,154.0,,vada pav,optional
+26-05-2022,Shopping,Big Basket,1500.0,,big basket,mandatory
+27-05-2022,Food,Swiggy,369.0,,pizza,optional
+29-05-2022,Food,Stall,345.0,,beer,optional
+29-05-2022,Bill,Credit,3234.0,,uni,mandatory
+30-05-2022,Enternainment,Movies,168.0,,bhoolbhulaiya,optional
+30-05-2022,Bill,Mobile,155.0,,airtel,mandatory
+31-05-2022,Income,Salary,,97000.0,Salary,
+31-05-2022,Food,Stall,34.0,,breakfast,mandatory
+31-05-2022,Income,Gift,,13.0,google pay,
+01-06-2022,Car,Maintenance,500.0,,car wash,mandatory
+02-06-2022,Food,Stall,30.0,,tea,optional
+02-06-2022,Pet,Pet food,700.0,,pet food,mandatory
+02-06-2022,Shopping,Stall,803.0,,pharma,optional
+02-06-2022,Shopping,Stall,30.0,,clutcher,optional
+02-06-2022,Food,Stall,585.0,,fruits,optional
+02-06-2022,Shopping,Stall,220.0,,pharma,optional
+02-06-2022,Car,Driver,1000.0,,driver,mandatory
+02-06-2022,Bill,D2H,540.0,,d2h ,mandatory
+03-06-2022,Bill,Medical,3000.0,,dentist,mandatory
+03-06-2022,Gift,Gift,12000.0,,reference,mandatory
+03-06-2022,Bill,Mobile,470.0,,vodafone bill,mandatory
+04-06-2022,Bill,OTT,199.0,,netflix,mandatory
+04-06-2022,Food,Swiggy,347.0,,pizza,optional
+04-06-2022,Income,Gift,,52.0,google pay,
+05-06-2022,Car,Petrol,800.0,,petrol,mandatory
+05-06-2022,Shopping,Others,2019.0,,jewewlry,optional
+05-06-2022,Food,Stall,130.0,,fruits,optional
+05-06-2022,Car,Driver,1500.0,,driver,mandatory
+05-06-2022,Food,Swiggy,215.0,,ice cream,optional
+05-06-2022,Bill,Mobile,470.0,,jio mine,mandatory
+07-06-2022,Shopping,Big Basket,1500.0,,big basket,mandatory
+08-06-2022,Travel,Ola,747.0,,ola ride,mandatory
+08-06-2022,Bill,Electricity,990.0,,electricity bill,mandatory
+08-06-2022,Car,Maintenance,6640.0,,servicing,optional
+08-06-2022,Food,Swiggy,547.0,,momos,optional
+10-06-2022,Bill,Car loan,7128.0,,car loan,mandatory
+12-06-2022,Food,Stall,240.0,,vada pav,optional
+12-06-2022,Car,Maintenance,550.0,,mud flap,mandatory
+12-06-2022,Car,Maintenance,300.0,,car perfume,optional
+12-06-2022,Car,Maintenance,200.0,,mudflap fitting,mandatory
+12-06-2022,Car,Petrol,800.0,,petrol,mandatory
+12-06-2022,Food,Stall,40.0,,tea,optional
+12-06-2022,Food,Stall,795.0,,sweets,optional
+12-06-2022,Food,Stall,490.0,,egg & chicken,optional
+12-06-2022,Car,Driver,3000.0,,driver,mandatory
+13-06-2022,Shopping,Amazon,700.0,,freezer door,mandatory
+13-06-2022,Food,Country Delight,500.0,,coconut water,mandatory
+14-06-2022,Food,Stall,372.0,,groceries,mandatory
+14-06-2022,Shopping,Amazon,999.0,,quilt,optional
+14-06-2022,Income,Gift,,20.0,google pay,
+14-06-2022,Unknown,Unknown,299.0,,Unknown,optional
+14-06-2022,Shopping,Big Basket,1500.0,,big basket,mandatory
+16-06-2022,Income,Gift,,29997.0,gift,
+16-06-2022,Bill,Rent,21175.0,,rent,mandatory
+17-06-2022,Unknown,Unknown,299.0,,Unknown,optional
+18-06-2022,Food,Swiggy,685.0,,pizza,optional
+18-06-2022,Food,Stall,72.0,,tea,optional
+18-06-2022,Food,Stall,1050.0,,fruits,optional
+18-06-2022,Car,Driver,2000.0,,driver,mandatory
+18-06-2022,Income,Divyang contribution,,250.0,contribution,
+19-06-2022,Food,Swiggy,260.0,,unknown,optional
+21-06-2022,Bill,Wifi,884.0,,wifi,mandatory
+21-06-2022,Shopping,Amazon,858.0,,comforter,optional
+21-06-2022,Bill,Ola,257.0,,travel,mandatory
+24-06-2022,Shopping,Amazon,689.0,,sweatpant,optional
+24-06-2022,Shopping,Amazon,499.0,,dog harness,optional
+25-06-2022,Shopping,Amazon,523.0,,sweatpant,optional
+25-06-2022,Food,Swiggy,655.0,,pizza,optional
+26-06-2022,Food,Swiggy,213.0,,moong daal halwa,optional
+26-06-2022,Income,Daisy,,5.0,gift,
+26-06-2022,Unknown,Unknown,240.0,,Unknown,optional
+26-06-2022,Car,Petrol,800.0,,petrol,mandatory
+26-06-2022,Food,Stall,70.0,,tea,optional
+26-06-2022,Income,Divyang contribution,,500.0,contribution,
+26-06-2022,Car,Driver,2500.0,,driver,mandatory
+28-06-2022,Enternainment,Movies,168.0,,JJK 0,optional
+29-06-2022,Food,Swiggy,427.0,,butter chiken,optional
+30-06-2022,Income,Salary,,101375.0,Salary,
+30-06-2022,Income,Interest,,593.0,interest,
+30-06-2022,Shopping,Amazon,598.0,,bag,optional
+30-06-2022,Shopping,Amazon,345.0,,facial tissue,optional
+30-06-2022,Food,Stall,120.0,,"bread, egg",mandatory
+01-09-2022,Salary,Salary,,145107.0,salary,
+01-09-2022,Groceries,Mart,794.0,,rajasthani shop,mandatory
+01-09-2022,Shopping,Amazon,3563.0,,kitchen stands,optional
+01-09-2022,Others,Others,106.0,,pan update,optional
+01-09-2022,Food,Country Delight,600.0,,coconut water,mandatory
+01-09-2022,Car,Maintenance,500.0,,car wash,mandatory
+01-09-2022,Shopping,Amazon,229.0,,kitchen stand,optional
+02-09-2022,Bill,Uni card,4674.0,,,mandatory
+02-09-2022,Bill,Credit Card,3000.0,,,mandatory
+02-09-2022,Unknown,Unknown,470.0,,,optional
+02-09-2022,Groceries,Big Basket,1500.0,,bbdaily,mandatory
+03-09-2022,Pet,Vet,400.0,,vet check,mandatory
+03-09-2022,Food,Stall,96.0,,tea snacks,optional
+03-09-2022,Shopping,Mart,2580.0,,to uttam,optional
+03-09-2022,Shopping,Mart,3058.0,,monthly groceries,mandatory
+03-09-2022,Shopping,Mart,1620.0,,"kitchen stand, microwave casterol",optional
+03-09-2022,Car,Driver,1500.0,,to uttam,mandatory
+03-09-2022,Food,Swiggy,430.0,,butter chicken,optional
+04-09-2022,Enternainment,OTT,199.0,,netflix,optional
+04-09-2022,Food,Zomato,1049.0,,fish,optional
+05-09-2022,Food,Dunzo,340.0,,chicken,optional
+06-09-2022,Shopping,Amazon,858.0,,blanket,optional
+08-09-2022,Bill,Electricity,540.0,,electric bill,mandatory
+08-09-2022,Bill,D2H,500.0,,d2h bill,mandatory
+05-09-2022,Bill,Mobile,470.0,,jio postpaid,mandatory
+05-09-2022,Food,Swiggy,228.0,,samosa,optional
+10-09-2022,Food,Stall,42.0,,tea,optional
+10-09-2022,Groceries,Stall,250.0,,fruits,mandatory
+10-09-2022,Others,Others,120.0,,pooja needs,optional
+10-09-2022,Shopping,Others,1020.0,,kitchen utensils,optional
+10-09-2022,Car,Driver,1500.0,, to Uttam,mandatory
+10-09-2022,Gift,Gift,3000.0,, to Daisy,mandatory
+09-09-2022,Bill,Mobile,155.0,,airtel mom,mandatory
+10-09-2022,Car,Petrol,800.0,,petrol,mandatory
+11-09-2022,Health/Fitness,Amazon,1099.0,,3kg dumbell set,mandatory
+11-09-2022,Food,Swiggy,598.0,,pizza & momos,optional
+12-09-2022,Groceries,Big Basket,2165.0,,snacks & dry fruits,mandatory
+14-09-2022,Groceries,Big Basket,1500.0,,bb daily,mandatory
+15-09-2022,Gift,Gift,,30000.0,for rent,
+16-09-2022,Bill,Rent,21176.0,,rent september,mandatory
+17-09-2022,Food,Swiggy,539.0,,pizza,optional
+19-09-2022,Bill,Wifi,884.0,,wifi bill,mandatory
+19-09-2022,Health/Fitness,Health/Fitness,920.0,,salon,mandatory
+19-09-2022,Health/Fitness,Health/Fitness,666.0,,medical bill for acidity,mandatory
+23-09-2022,Car,Driver,2500.0,,uttam,mandatory
+24-09-2022,Food,Swiggy,1892.0,,"samosa, fish, prawns",optional
+25-09-2022,Others,Others,1000.0,,driving lessons,mandatory
+25-09-2022,Food,Stall,62.0,,refreshments,optional
+26-09-2022,Pet,Vet,2350.0,,pet vaccine,mandatory
+26-09-2022,Health/Fitness,Health/Fitness,225.0,,ors,mandatory
+26-09-2022,Car,Driver,1500.0,,uttam,mandatory
+26-09-2022,Travel,Ola,470.0,,ola/uber rides,optional
+21-09-2022,Pet,Pet food,2070.0,,pet food,mandatory
+23-09-2022,Others,Others,,300.0,art commission,
+27-09-2022,Enternainment,Movies,126.0,,brahmastra movie,optional
+27-09-2022,Others,Unknown,292.0,,pinelabs pos,optional
+27-09-2022,Food,Swiggy,226.0,,,optional
+27-09-2022,Others,Others,1100.0,,sunglasses,optional
+28-09-2022,Others,Others,849.0,,mithaas content writing,optional
+29-09-2022,Groceries,Big Basket,1500.0,,bb daily,mandatory
+29-09-2022,Gift,Gift,1000.0,,to daisy,optional
+29-09-2022,Others,Others,2100.0,,driving classes,mandatory
+29-09-2022,Food,Stall,60.0,,cold coffee,optional
+01-10-2022,Salary,Salary,,123789.0,salary,
+30-09-2022,Groceries,Stall,363.0,,veggies,mandatory
+30-09-2022,Health/Fitness,Medical,363.0,,earplugs,mandatory
+01-10-2022,Car,Maintenance,500.0,,car wash,mandatory
+01-10-2022,Groceries,Country Delight,600.0,,coconut water recharge,mandatory
+01-10-2022,Bill,Uni card,1058.0,,uni card credit,mandatory
+01-10-2022,Bill,Credit Card,11203.0,,icici bank credit card,mandatory
+06-10-2022,Food,Swiggy,465.0,,Chicken,optional
+01-10-2022,Travel,Ola,1974.0,,ola rides,mandatory
+01-10-2022,Unknown,Unknown,1000.0,,,optional
+01-10-2022,Pet,Vet,2100.0,,vaccine,mandatory
+01-10-2022,Health/Fitness,Health/Fitness,167.0,,ors,mandatory
+02-10-2022,Car,Driver,2000.0,,to uttam,mandatory
+02-10-2022,Food,Stall,49.0,,tea,optional
+02-10-2022,Unknown,Unknown,440.0,,,optional
+03-10-2022,Enternainment,Movies,146.0,,vikram vedha,optional
+03-10-2022,Travel,Ola,112.0,,,optional
+04-10-2022,Enternainment,OTT,199.0,,Netflix,mandatory
+04-10-2022,Bill,Mobile,470.0,,vodafone,mandatory
+04-10-2022,Health/Fitness,Health/Fitness,12000.0,,gym membership,mandatory
+04-10-2022,Travel,Ola,110.0,,,mandatory
+04-10-2022,Car,Driver,1500.0,,to uttam,optional
+04-10-2022,Food,Stall,24.0,,tea,optional
+05-10-2022,Travel,Ola,120.0,,,mandatory
+05-10-2022,Car,Maintenance,150.0,,car wash,mandatory
+05-10-2022,Car,Maintenance,170.0,,garland,mandatory
+05-10-2022,Food,Stall,84.0,,tea,optional
+05-10-2022,Groceries,Stall,150.0,,eggs,mandatory
+05-10-2022,Car,Driver,2000.0,,to uttam,mandatory
+05-10-2022,Enternainment,Movies,235.0,,one piece movie,optional
+06-10-2022,Bill,Mobile,470.0,,jio postpaid,mandatory
+06-10-2022,Bill,Electricity,610.0,,electric bill,mandatory
+06-10-2022,Food,Dunzo,465.0,,chicken,optional
+2022-10-07,Travel,Ola,260.0,,ola rides,optional
+2022-10-07,Health/Fitness,Health/Fitness,115.0,,glucon,optional
+2022-10-07,Others,Others,1500.0,,headphones,optional
+2022-10-07,Others,Others,3150.0,,gym clothes,mandatory
+2022-10-08,Travel,Ola,281.0,,ola rides,mandatory
+2022-10-08,Others,Maintenance,350.0,,aquaguard filter change,mandatory
+2022-10-09,Food,Swiggy,495.0,,burger,optional
+2022-10-10,Bill,D2H,500.0,,d2h recharge,mandatory
+2022-10-10,Car,Driver,1700.0,,to uttam,optional
+2022-10-11,Others,Others,35000.0,,financial advisor,investment
+2022-10-11,Health/Fitness,Medical,50.0,,,mandatory
+2022-10-11,Food,Dunzo,392.0,,chicken,mandatory
+2022-10-12,Health/Fitness,Health/Fitness,5200.0,,gym member ship,mandatory
